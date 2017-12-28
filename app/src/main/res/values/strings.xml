@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DialogTest</string>
+    <string name="action_settings">Settings</string>
+
+    <drawable name="clr_normal">#FFF</drawable>
+    <drawable name="clr_pressed">#E0E0E0</drawable>
+</resources>
