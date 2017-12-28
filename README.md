@@ -7,7 +7,7 @@ DatePickerDialog 或 TimePickerDialog
 此对话框带有允许用户选择日期或时间的预定义 UI。  
 ------------------------------------------------来自于Google Android Develop 开发手册
 
-![](http://oz2u8kxpt.bkt.clouddn.com/17-12-28/753738.jpg?imageslim)
+![](http://oz2u8kxpt.bkt.clouddn.com/17-12-28/753738.jpg)
 
 ## 日期选择器
 
